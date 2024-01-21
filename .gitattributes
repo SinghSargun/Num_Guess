@@ -1,0 +1,9 @@
+# .gitattributes
+
+# Specify text files
+*.py text
+
+# Specify binary files
+*.pyc binary
+*.exe binary
+*.dll binary
